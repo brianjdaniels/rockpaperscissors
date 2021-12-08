@@ -1,4 +1,3 @@
-
 let randomNumber =0;
 
 $(".play").click(function(){ 
